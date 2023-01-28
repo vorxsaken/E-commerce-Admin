@@ -1,0 +1,73 @@
+Date : 2023-01-10 18:06:47
+Directory : e:\tugas akhir\program\penjualanadmin\src
+Total : 36 files,  5099 codes, 1683 comments, 265 blanks, all 7047 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         24 |      4,304 |      1,640 |        186 |      6,130 |
+| JavaScript |         10 |        742 |         43 |         77 |        862 |
+| SCSS       |          1 |         52 |          0 |          1 |         53 |
+| XML        |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                         | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                            |         36 |      5,099 |      1,683 |        265 |      7,047 |
+| . (Files)                                                                    |          2 |        154 |          3 |         13 |        170 |
+| assets                                                                       |          1 |          1 |          0 |          1 |          2 |
+| components                                                                   |         20 |      2,572 |      1,046 |        175 |      3,793 |
+| components (Files)                                                           |         15 |      2,156 |      1,026 |        124 |      3,306 |
+| components\composes                                                          |          5 |        416 |         20 |         51 |        487 |
+| plugins                                                                      |          2 |         19 |          0 |          6 |         25 |
+| router                                                                       |          1 |        108 |          0 |          5 |        113 |
+| scss                                                                         |          1 |         52 |          0 |          1 |         53 |
+| store                                                                        |          1 |        180 |         23 |         12 |        215 |
+| views                                                                        |          8 |      2,013 |        611 |         52 |      2,676 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                     | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| e:\tugas akhir\program\penjualanadmin\src\App.vue                            | Vue        |        135 |          3 |         10 |        148 |
+| e:\tugas akhir\program\penjualanadmin\src\assets\logo.svg                    | XML        |          1 |          0 |          1 |          2 |
+| e:\tugas akhir\program\penjualanadmin\src\components\Navigation.vue          | Vue        |        393 |        508 |          0 |        901 |
+| e:\tugas akhir\program\penjualanadmin\src\components\biayaKeluar.vue         | Vue        |        286 |          0 |          8 |        294 |
+| e:\tugas akhir\program\penjualanadmin\src\components\composes\add.js         | JavaScript |         68 |          0 |          4 |         72 |
+| e:\tugas akhir\program\penjualanadmin\src\components\composes\composes.js    | JavaScript |        276 |         20 |         39 |        335 |
+| e:\tugas akhir\program\penjualanadmin\src\components\composes\delete.js      | JavaScript |         14 |          0 |          2 |         16 |
+| e:\tugas akhir\program\penjualanadmin\src\components\composes\edit.js        | JavaScript |         37 |          0 |          2 |         39 |
+| e:\tugas akhir\program\penjualanadmin\src\components\composes\mergeSort.js   | JavaScript |         21 |          0 |          4 |         25 |
+| e:\tugas akhir\program\penjualanadmin\src\components\editAdmin.vue           | Vue        |         17 |        257 |          0 |        274 |
+| e:\tugas akhir\program\penjualanadmin\src\components\labaBersih.vue          | Vue        |        130 |          8 |         15 |        153 |
+| e:\tugas akhir\program\penjualanadmin\src\components\labaKotor.vue           | Vue        |         79 |          0 |          5 |         84 |
+| e:\tugas akhir\program\penjualanadmin\src\components\lineChart.vue           | Vue        |        251 |          0 |         22 |        273 |
+| e:\tugas akhir\program\penjualanadmin\src\components\listAdmin.vue           | Vue        |        134 |          1 |          4 |        139 |
+| e:\tugas akhir\program\penjualanadmin\src\components\pieChart.vue            | Vue        |        163 |          2 |         15 |        180 |
+| e:\tugas akhir\program\penjualanadmin\src\components\previewImage.vue        | Vue        |         43 |          0 |          2 |         45 |
+| e:\tugas akhir\program\penjualanadmin\src\components\reviewCard.vue          | Vue        |        166 |          0 |          9 |        175 |
+| e:\tugas akhir\program\penjualanadmin\src\components\reviewTerbanyakCard.vue | Vue        |         28 |          0 |          2 |         30 |
+| e:\tugas akhir\program\penjualanadmin\src\components\riwayatBarangMasuk.vue  | Vue        |        209 |          1 |          8 |        218 |
+| e:\tugas akhir\program\penjualanadmin\src\components\totalPengeluaran.vue    | Vue        |        101 |         16 |         17 |        134 |
+| e:\tugas akhir\program\penjualanadmin\src\components\totalProfit.vue         | Vue        |        139 |          0 |         17 |        156 |
+| e:\tugas akhir\program\penjualanadmin\src\components\userDialog.vue          | Vue        |         17 |        233 |          0 |        250 |
+| e:\tugas akhir\program\penjualanadmin\src\main.js                            | JavaScript |         19 |          0 |          3 |         22 |
+| e:\tugas akhir\program\penjualanadmin\src\plugins\firebase.js                | JavaScript |         14 |          0 |          3 |         17 |
+| e:\tugas akhir\program\penjualanadmin\src\plugins\vuetify.js                 | JavaScript |          5 |          0 |          3 |          8 |
+| e:\tugas akhir\program\penjualanadmin\src\router\index.js                    | JavaScript |        108 |          0 |          5 |        113 |
+| e:\tugas akhir\program\penjualanadmin\src\scss\variables.scss                | SCSS       |         52 |          0 |          1 |         53 |
+| e:\tugas akhir\program\penjualanadmin\src\store\index.js                     | JavaScript |        180 |         23 |         12 |        215 |
+| e:\tugas akhir\program\penjualanadmin\src\views\Customer.vue                 | Vue        |        711 |         11 |         12 |        734 |
+| e:\tugas akhir\program\penjualanadmin\src\views\Dashboard.vue                | Vue        |        221 |          0 |          6 |        227 |
+| e:\tugas akhir\program\penjualanadmin\src\views\Laporan.vue                  | Vue        |        288 |          1 |          4 |        293 |
+| e:\tugas akhir\program\penjualanadmin\src\views\Pesanan.vue                  | Vue        |        360 |          1 |         10 |        371 |
+| e:\tugas akhir\program\penjualanadmin\src\views\Produk.vue                   | Vue        |        144 |        598 |          1 |        743 |
+| e:\tugas akhir\program\penjualanadmin\src\views\kategori.vue                 | Vue        |         19 |          0 |          6 |         25 |
+| e:\tugas akhir\program\penjualanadmin\src\views\login.vue                    | Vue        |        150 |          0 |          5 |        155 |
+| e:\tugas akhir\program\penjualanadmin\src\views\messages.vue                 | Vue        |        120 |          0 |          8 |        128 |
+| Total                                                                        |            |      5,099 |      1,683 |        265 |      7,047 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
